@@ -8,6 +8,18 @@
 ## Source Imputation (a.k.a. Partial Generation)
 Given a source stem as input (e.g. drums), the neural model generates accompanying instruments:
 
+### Piano
+
+| Original Source | Generated accompaniment|
+| :----------: | :----------: |
+|<audio controls preload="none"><source src="media/inpainting/piano2/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/piano2/1_mix.mp3" type="audio/mpeg"> </audio>|
+
+### Guitar
+
+| Original Source | Generated accompaniment|
+| :----------: | :----------: |
+|<audio controls preload="none"><source src="media/inpainting/guitar/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/guitar/1_mix.mp3" type="audio/mpeg"> </audio>|
+
 ### Bass
 
 | Original Source | Generated accompaniment |
@@ -19,17 +31,5 @@ Given a source stem as input (e.g. drums), the neural model generates accompanyi
 | Original Source | Generated accompaniment |
 | :----------: | :----------: |
 |<audio controls preload="none"><source src="media/inpainting/drums/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/drums/1_mix.mp3" type="audio/mpeg"> </audio>|
-
-### Guitar
-
-| Original Source | Generated accompaniment|
-| :----------: | :----------: |
-|<audio controls preload="none"><source src="media/inpainting/guitar/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/guitar/1_mix.mp3" type="audio/mpeg"> </audio>|
-
-### Piano
-
-| Original Source | Generated accompaniment|
-| :----------: | :----------: |
-|<audio controls preload="none"><source src="media/inpainting/piano2/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/piano2/1_mix_opt.mp3" type="audio/mpeg"> </audio>|
 
 <br/><br/>
