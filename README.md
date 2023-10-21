@@ -10,26 +10,26 @@ Given a source stem as input (e.g. drums), the neural model generates accompanyi
 
 ### Piano
 
-| Original Source | Generated accompaniment|
-| :----------: | :----------: |
-|<audio controls preload="none"><source src="media/inpainting/piano2/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/piano2/1_mix.mp3" type="audio/mpeg"> </audio>|
+| Original Source | Generated accompaniment| Final Mix |
+| :----------: | :----------: | :----------: |
+|<audio controls preload="none"><source src="media/inpainting/piano2/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/piano2/1_mix.mp3" type="audio/mpeg"> </audio>|   <audio controls preload="none"><source src="media/inpainting/piano2/1_mix.mp3" type="audio/mpeg"> </audio>|
 
 ### Guitar
 
-| Original Source | Generated accompaniment|
-| :----------: | :----------: |
-|<audio controls preload="none"><source src="media/inpainting/guitar/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/guitar/1_mix.mp3" type="audio/mpeg"> </audio>|
+| Original Source | Generated accompaniment| Final Mix |
+| :----------: | :----------: | :----------: |
+|<audio controls preload="none"><source src="media/inpainting/guitar/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/guitar/1_mix.mp3" type="audio/mpeg"> </audio>|<audio controls preload="none"><source src="media/inpainting/guitar/1_mix.mp3" type="audio/mpeg"> </audio>|
 
 ### Bass
 
-| Original Source | Generated accompaniment |
-| :----------: | :----------: |
-|<audio controls preload="none"><source src="media/inpainting/bass/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/bass/1_mix.mp3" type="audio/mpeg"> </audio>|
+| Original Source | Generated accompaniment| Final Mix |
+| :----------: | :----------: | :----------: |
+|<audio controls preload="none"><source src="media/inpainting/bass/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/bass/1_mix.mp3" type="audio/mpeg"> </audio>| <audio controls preload="none"><source src="media/inpainting/bass/1_mix.mp3" type="audio/mpeg"> </audio>|
 
 ### Drums
 
-| Original Source | Generated accompaniment |
-| :----------: | :----------: |
-|<audio controls preload="none"><source src="media/inpainting/drums/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/drums/1_mix.mp3" type="audio/mpeg"> </audio>|
+| Original Source | Generated accompaniment| Final Mix |
+| :----------: | :----------: | :----------: |
+|<audio controls preload="none"><source src="media/inpainting/drums/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/drums/1_mix.mp3" type="audio/mpeg"> </audio>|  <audio controls preload="none"><source src="media/inpainting/drums/1_mix.mp3" type="audio/mpeg"> </audio>|
 
 <br/><br/>
