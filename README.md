@@ -12,25 +12,25 @@ Given a conditioning track as input, the neural model generates accompanying ins
 
 | Conditioning Track | Generated Accompaniment | Resulting Mix |
 | :----------: | :----------: | :----------: |
-|<audio controls preload="none"><source src="media/inpainting/piano2/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/piano2/1_mix.mp3" type="audio/mpeg"> </audio>|   <audio controls preload="none"><source src="media/inpainting/piano2/1_mix.mp3" type="audio/mpeg"> </audio>|
+|<audio controls preload="none"><source src="media/inpainting/piano2/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/piano2/1_stem.mp3" type="audio/mpeg"> </audio>|   <audio controls preload="none"><source src="media/inpainting/piano2/1_mix.mp3" type="audio/mpeg"> </audio>|
 
 ### Guitar
 
 | Conditioning Track | Generated Accompaniment | Resulting Mix |
 | :----------: | :----------: | :----------: |
-|<audio controls preload="none"><source src="media/inpainting/guitar/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/guitar/1_mix.mp3" type="audio/mpeg"> </audio>|<audio controls preload="none"><source src="media/inpainting/guitar/1_mix.mp3" type="audio/mpeg"> </audio>|
+|<audio controls preload="none"><source src="media/inpainting/guitar/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/guitar/1_stem.mp3" type="audio/mpeg"> </audio>|<audio controls preload="none"><source src="media/inpainting/guitar/1_mix.mp3" type="audio/mpeg"> </audio>|
 
 ### Bass
 
 | Conditioning Track | Generated Accompaniment | Resulting Mix |
 | :----------: | :----------: | :----------: |
-|<audio controls preload="none"><source src="media/inpainting/bass/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/bass/1_mix.mp3" type="audio/mpeg"> </audio>| <audio controls preload="none"><source src="media/inpainting/bass/1_mix.mp3" type="audio/mpeg"> </audio>|
+|<audio controls preload="none"><source src="media/inpainting/bass/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/bass/1_stem.mp3" type="audio/mpeg"> </audio>| <audio controls preload="none"><source src="media/inpainting/bass/1_mix.mp3" type="audio/mpeg"> </audio>|
 
 ### Drums
 
 | Conditioning Track | Generated Accompaniment | Resulting Mix |
 | :----------: | :----------: | :----------: |
-|<audio controls preload="none"><source src="media/inpainting/drums/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/drums/1_mix.mp3" type="audio/mpeg"> </audio>|  <audio controls preload="none"><source src="media/inpainting/drums/1_mix.mp3" type="audio/mpeg"> </audio>|
+|<audio controls preload="none"><source src="media/inpainting/drums/1_cond.mp3" type="audio/mpeg"> </audio> |   <audio controls preload="none"><source src="media/inpainting/drums/1_stem.mp3" type="audio/mpeg"> </audio>|  <audio controls preload="none"><source src="media/inpainting/drums/1_mix.mp3" type="audio/mpeg"> </audio>|
 
 ## MTG-Jamendo Samples
 Coming soon!
