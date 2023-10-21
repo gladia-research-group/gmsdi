@@ -1,4 +1,4 @@
-# Multi Source Diffusion Models
+# Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models
 
  * **Paper:** ***Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models***  <br/><br/>
  * **Authors:** Emilian Postolache, Giorgio Mariani, Luca Cosmo, Emmanouil Benetos, Emanuele Rodolà  <br/><br/>
